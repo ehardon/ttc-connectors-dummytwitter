@@ -45,3 +45,7 @@ The feed can be configured by changing the properties inside the application.pro
 
 Tweet Feed Rate in milliseconds (1 tweet per second = 1000)
 > feed.rate=1000
+
+
+
+something really nice
